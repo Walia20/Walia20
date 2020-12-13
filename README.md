@@ -3,7 +3,7 @@
 
 
 
-Here are some ideas to get you started:
+Small Intro about Me !!
 
 - 🔭 I’m currently working on ... Machine Learning
 - 🌱 I’m currently learning ... Data Science
